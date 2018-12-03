@@ -13,4 +13,4 @@ pour rendre le gameplay plus amusant et adapté à la longueur augmentée des ro
 
 Je n'ai jamais publié l'addon car je n'ai pas eu le temps à l'époque de le finaliser.
 
-Vidéo du mod en fonctionnement sur http://bvalo.fr/videos/freezemod.avi
+Vidéo du mod en fonctionnement : http://bvalo.fr/videos/freezemod.avi
