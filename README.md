@@ -5,7 +5,7 @@ Ancien projet qui consistait à modifier le gameplay du jeu Counter-Strike: Sour
 
 Le but était pour chaque équipe de venir à bout de l'équipe adverse en tirant sur ses joueurs,
 ce qui provoquait leur immobilisation ("freeze"). Les joueurs encore mobiles pouvaient "dégeler"
-leurs coéquipiers en leur donnant des coups de couteaux.
+leurs coéquipiers en leur donnant des coups de couteau.
 La première équipe à avoir tous ses membres gelés perdait.
 D'autres modifications avaient été apportées (gain d'argent à chaque "freeze" avec possibilité
 d'acheter des armes, possibilité de se propulser en tirant au sol, modifications sonores et visuelles..)
