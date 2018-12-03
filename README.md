@@ -3,8 +3,6 @@ Fonctionnement d'EventScripts : https://fr.wikipedia.org/wiki/EventScripts
 Ancien projet qui consistait à modifier le gameplay du jeu Counter-Strike: Source
 à l'aide du plugin EventScripts.
 
-Le 
-
 Le but était pour chaque équipe de venir à bout de l'équipe adverse en tirant sur ses joueurs,
 ce qui provoquait leur immobilisation ("freeze"). Les joueurs encore mobiles pouvaient "dégeler"
 leurs coéquipiers en leur donnant des coups de couteaux.
